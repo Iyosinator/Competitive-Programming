@@ -6,6 +6,5 @@ def can_divide_watermelon(w):
         return "NO" 
 # Read input
 w = int(input())
-
 # Print the result
 print(can_divide_watermelon(w))
