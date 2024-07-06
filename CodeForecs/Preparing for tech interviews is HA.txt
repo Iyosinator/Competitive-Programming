@@ -1,0 +1,48 @@
+Preparing for tech interviews is HARD.
+
+My free curated tech interview blueprint:
+
+
+𝗖𝗼𝗱𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄:
+
+0. Coding Interview University (294k stars): https://lnkd.in/dH9NSDNX
+1. Grind 75 Practice Questions: https://lnkd.in/dbCrn7yw
+2. Awesome Leetcode Resources: https://lnkd.in/dnjwGFjM
+3. Neetcode App and Youtube (by Navdeep Singh): https://neetcode.io/
+4. The Tech Interview Handbook: https://lnkd.in/desaJkhu
+
+
+𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄:
+
+5. Awesome System Design Resources (by Ashish Pratap Singh): https://lnkd.in/dU6wFXkn
+6. System Design 101 (59k stars): https://lnkd.in/d5itZHgQ
+7. System Design Basics Playlist on Youtube: https://lnkd.in/dN3fpjWZ
+8. System Design Github Repo (by Neo K.): https://lnkd.in/dbfAK_6A
+9. The System Design Roadmap: https://lnkd.in/d3S79YVJ
+
+
+𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗗𝗲𝘀𝗶𝗴𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄:
+
+10. Awesome Design Patterns (36k stars): https://lnkd.in/dyAHdeFi
+11. Design Patterns with Visuals: https://lnkd.in/dnyZXQ52
+12. Awesome Low-Level Design: https://lnkd.in/d9yt9grg
+13. Design Patterns Youtube Playlist: https://lnkd.in/dWyf3nma
+14. System Design Primer (259k stars): https://lnkd.in/dkPScaCW
+
+
+𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄:
+
+15. The Front-End Interview Handbook (by Yangshun Tay): https://lnkd.in/dhXn96yC
+16. Javascript Visualized Series: https://lnkd.in/dHz8RTGD
+17. BigFrontend for Practice Questions by Companies: https://bigfrontend.dev/
+18. Front-End Developer Interview Questions (59k stars): https://lnkd.in/d-bJuE6S
+19. Great Frontend to Plan and Practice: https://lnkd.in/dGwWFDQQ
+
+
+𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿𝗮𝗹 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄:
+
+20. Awesome Behavioral Interviews: https://lnkd.in/dTBvfcau
+21. The Behavioral Interview Youtube Playlist: https://lnkd.in/dgjmKYae
+22. The STAR methodology: https://lnkd.in/dE8yeieq
+23. Behavioral Questions with Example Answers: https://lnkd.in/dUpyuYKr
+24. Interview Questions by Company: https://lnkd.in/dBRmGtaW
