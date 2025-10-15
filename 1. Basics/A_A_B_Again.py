@@ -2,11 +2,9 @@ t = int(input())
 
 
 for i in range(t):
-    n = input()
+    n = int(input())
 
-    n = str(n)
+    a = n // 10
+    b = n % 10
 
-    num1 = int(n[0])
-    num2 = int(n[1])
-
-    print(num1+num2)
+    print(a+b)
